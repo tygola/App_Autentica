@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F3F1F6</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#F12343</color>
+    <color name="corBotao">#F12343</color>
+    <color name="corvoltar">#F12343</color>
+    <color name="corFonteBranca">#FFFFFF</color>
+    <color name="corEditText">#BDBABA</color>
+    <color name="corBotaoFacebook">#294B9A</color>
+</resources>
